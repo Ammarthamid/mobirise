@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "American Electro Mechanical",
-    "currentPage": "CONTACT",
+    "currentPage": "HOME",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -40,13 +40,16 @@
             "P": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "SPAN": {
+              "color": "#3d5080"
             }
           },
           "_anchor": "header2-2",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/circuits-background-web-final-2000x1737.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/circuits-background-web-2000x1737.jpg",
             "bgColor": "#9e9d9d",
             "bgColorRadio": false,
             "bgVideo": {
@@ -62,7 +65,7 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "AMERICAN ELECTROMECHANICAL",
+          "title": "<br><span style=\"color: inherit;\"><br></span><br><span style=\"color: inherit;\">AMERICAN ELECTROMECHANICAL</span><br>",
           "text": "Real People. Real Work. Real Rewards.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"ABOUT\" data-toolbar=\"-mbrBtnMove\">ABOUT </a>  "
         }
